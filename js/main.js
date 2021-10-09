@@ -55,6 +55,8 @@ $(function() {
       }
     });
     $("#age").html(getAge("1995-02-28"));
+    $("#experience").html(getAge("2015-10-15"));
+    $("#currentYear").html(new Date().getFullYear());
   });
 
   const getAge = birthDate => Math.floor((new Date() - new Date(birthDate).getTime()) / 3.15576e+10);
@@ -174,7 +176,7 @@ $(function() {
     }
   });
 
-  bar.animate(.9);
+  bar.animate(.95);
 
   var bar = new ProgressBar.Line(lineprog2, {
     strokeWidth: 1.72,
@@ -191,7 +193,7 @@ $(function() {
     }
   });
 
-  bar.animate(.95);
+  bar.animate(.90);
 
   var bar = new ProgressBar.Line(lineprog3, {
     strokeWidth: 1.72,
@@ -225,7 +227,7 @@ $(function() {
     }
   });
 
-  bar.animate(.65);
+  bar.animate(.55);
 
   var bar = new ProgressBar.Line(lineprog5, {
     strokeWidth: 1.72,
@@ -242,7 +244,7 @@ $(function() {
     }
   });
 
-  bar.animate(.85);
+  bar.animate(.70);
 
   // Contact form
   $('.art-input').keyup(function() {
