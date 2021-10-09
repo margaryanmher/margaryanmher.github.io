@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47772138-d9f1-46f8-bae9-bc58dac50d4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mher.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/moon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/normal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/space.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-    </list>
+    <list default="true" id="47772138-d9f1-46f8-bae9-bc58dac50d4a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +50,7 @@
       <workItem from="1633792831588" duration="69000" />
       <workItem from="1633792990058" duration="136000" />
       <workItem from="1633793179153" duration="73000" />
-      <workItem from="1633793302070" duration="1706000" />
+      <workItem from="1633793302070" duration="1990000" />
     </task>
     <servers />
   </component>
